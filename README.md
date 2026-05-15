@@ -32,13 +32,19 @@ The system is built in layers:
 - Fraud does not always occur in highly abnormal transactions  
 - Some fraudulent activities occur within normal behavioral patterns  
 - Anomaly detection alone produces false positives  
-- Combining multiple signals improves risk detection  
+- Combining multiple signals improves risk detection
 
-##
-Dashboard
+## Tools 
+- Python(pandas, numpy)
+- Power Bi
+
+
+## Dashboard
 
 <img width="741" height="480" alt="risk analysis power bi" src="https://github.com/user-attachments/assets/5dff875e-bbe9-4e01-9f13-e427feb3b7ad" />
 
+## Conclusion
+This project shiws ho behaavioural anlysis and anomally detection can be combined to build an interpretable financial rise monitoring system.
 
 
 
@@ -47,12 +53,3 @@ Dashboard
 
 
 
-
-
-
-
-
-
- 
-   - Enabled real-time investigation of high-risk transactions
-  
